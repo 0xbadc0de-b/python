@@ -1,2 +1,2 @@
-# web-crawler
-웹 크롤러 예제 코드
+# Python
+파이썬(Python) 예제 모음
