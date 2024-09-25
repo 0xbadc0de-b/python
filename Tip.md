@@ -5,7 +5,7 @@
 - TEXT 함수 사용
   + 사용예) =TEXT(B1, "0000")  
 
-[출처](https://gbgg.tistory.com/entry/엑셀-지식iN-엑셀-숫자-앞에-0을-채우는-방법은)  
+[출처](https://gbgg.tistory.com/entry/엑셀-지식iN-엑셀-숫자-앞에-0을-채우는-방법은){:target="_blank"}    
 https://gbgg.tistory.com/entry/엑셀-지식iN-엑셀-숫자-앞에-0을-채우는-방법은  
 
 
